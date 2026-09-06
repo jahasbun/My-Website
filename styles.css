@@ -105,3 +105,12 @@ footer {
     color: white;
     margin-top: 20px;
 }
+/* Profile Picture Styling */
+.profile-pic {
+    width: 250px;
+    height: 250px;
+    border-radius: 70%; /* Makes the image a round circle */
+    object-fit: cover;   /* Prevents image stretching */
+    border: 3px solid #00bcd4;
+    margin-top: 15px;
+}
