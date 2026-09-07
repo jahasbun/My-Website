@@ -32,14 +32,14 @@ nav a {
 }
 
 nav a:hover {
-    color: #dcc773;
+    color: #273445;
 }
 
 /* Header / Banner */
 header {
     text-align: center;
     padding: 3rem 1rem;
-    background-color: #34495e;
+    background-color: #273445;
     color: white;
 }
 
@@ -61,7 +61,7 @@ section {
 
 h2 {
     color: #2c3e50;
-    border-bottom: 2px solid #dcc773;
+    border-bottom: 2px solid #1b232c;
     padding-bottom: 5px;
 }
 
@@ -75,7 +75,7 @@ h2 {
 }
 
 .skills-list li {
-    background-color: #49a6bf;
+    background-color: #273445;
     color: white;
     padding: 5px 12px;
     border-radius: 15px;
@@ -111,7 +111,7 @@ footer {
     height: 250px;
     border-radius: 70%; /* Makes the image a round circle */
     object-fit: cover;   /* Prevents image stretching */
-    border: 3px solid #26303e;
+    border: 3px solid #1b232c;
     margin-top: 15px;
 
 }
