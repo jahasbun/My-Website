@@ -5,12 +5,12 @@ body {
     padding: 0;
     line-height: 1.6;
     color: #333;
-    background-color: #528fe3;
+    background-color: rgb(39, 39, 39);
 }
 
 /* Navigation Bar */
 nav {
-    background-color: #2c3e50;
+    background-color: #171717;
     padding: 1rem;
     position: sticky;
     top: 0;
@@ -61,7 +61,7 @@ section {
 
 h2 {
     color: #2c3e50;
-    border-bottom: 2px solid #00bcd4;
+    border-bottom: 2px solid #dcc773;
     padding-bottom: 5px;
 }
 
@@ -75,7 +75,7 @@ h2 {
 }
 
 .skills-list li {
-    background-color: #00bcd4;
+    background-color: #49a6bf;
     color: white;
     padding: 5px 12px;
     border-radius: 15px;
@@ -92,7 +92,7 @@ h2 {
 
 /* Contact Section Links */
 .contact-links a {
-    color: #00bcd4;
+    color: #3491b3;
     text-decoration: none;
     font-weight: bold;
 }
@@ -111,6 +111,13 @@ footer {
     height: 250px;
     border-radius: 70%; /* Makes the image a round circle */
     object-fit: cover;   /* Prevents image stretching */
-    border: 3px solid #00bcd4;
+    border: 3px solid #26303e;
     margin-top: 15px;
+
+}
+.Certificate-Card{
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-top: 15px;
+    border-radius: 5px;
 }
